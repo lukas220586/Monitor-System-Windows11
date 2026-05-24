@@ -5,7 +5,7 @@ Dashboard hardware per PC che mostra **CPU / GPU / RAM / DISK** su display OLED 
  Updated upstream
 Realizzato da **Pugliese Hardware** 
 =======
-Realizzato da **Pugliese Hardware** — [pugliese-hardware.it](https://pugliese-hardware.it)
+Realizzato da **Pugliese Hardware** 
 
 ## 📸 Screenshot Test
 

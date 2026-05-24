@@ -2,7 +2,20 @@
 
 Dashboard hardware per PC che mostra **CPU / GPU / RAM / DISK** su display OLED 128×64, con slider automatico ogni 6 secondi e spegnimento automatico del display quando il PC viene spento o disconnesso.
 
+<<<<<<< Updated upstream
 Realizzato da **Pugliese Hardware** 
+=======
+Realizzato da **Pugliese Hardware** — [pugliese-hardware.it](https://pugliese-hardware.it)
+
+## 📸 Screenshot Test
+
+![UI 1](assets/screenshot1.jpeg)
+![UI 2](assets/screenshot2.jpeg)
+![UI 3](assets/screenshot3.jpeg)
+![UI 4](assets/screenshot4.jpeg)
+
+---
+>>>>>>> Stashed changes
 
 ## Specifiche tecniche
 

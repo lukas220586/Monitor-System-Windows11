@@ -1,4 +1,5 @@
 # Pugliese Hardware — System Monitor
+https://www.printables.com/model/1732453-monitor-system-windows11
 
 Dashboard hardware per PC che mostra **CPU / GPU / RAM / DISK** su display OLED 128×64, con slider automatico ogni 6 secondi e spegnimento automatico del display quando il PC viene spento o disconnesso.
 
